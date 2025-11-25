@@ -24,8 +24,3 @@
 ## 📈 Activity Graph
 
 [![Roger's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rogerdanielss&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-## 📊 GitHub Stats
-
-[![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerdanielss&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
