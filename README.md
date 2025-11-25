@@ -15,10 +15,10 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend:** JavaScript, TypeScript, React, Next.js, HTML5, CSS3
-**Backend:** Node.js, Ruby on Rails, Java
-**Banco de Dados:** PostgreSQL, MySQL, Redis
-**Ferramentas:** Git, VS Code, Figma, Postman
+- **Frontend:** JavaScript, TypeScript, React, Next.js, HTML5, CSS3
+- **Backend:** Node.js, Ruby on Rails, Java
+- **Banco de Dados:** PostgreSQL, MySQL, Redis
+- **Ferramentas:** Git, VS Code, Figma, Postman
 
 
 ## 📈 Activity Graph
